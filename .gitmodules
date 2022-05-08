@@ -1,3 +1,6 @@
 [submodule "001-sign-up/expo-nativebase"]
 	path = 001-sign-up/expo-nativebase
 	url = git@github.com:miball0202/daily-ui-001-sign-up-expo-nativebase.git
+[submodule "002-credit-card-checkout/expo-nativebase"]
+	path = 002-credit-card-checkout/expo-nativebase
+	url = git@github.com:miball0202/daily-ui-001-sign-up-expo-nativebase.git
